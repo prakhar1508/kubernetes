@@ -4,7 +4,7 @@ metadata:
    name: mypod1
    labels:
       env: dev
-      dc: IN
+      dc: IN 
 
 spec:
    containers:
